@@ -1,11 +1,12 @@
 {
     "name": "pencilkill/tmp",
-    "description": "composer package test",
+    "description": "composer test",
     "authors": [
         {
             "name": "Sam",
             "email": "mail.song.de.qiang@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
